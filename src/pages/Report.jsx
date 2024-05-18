@@ -29,7 +29,6 @@ const Report = () => {
                 <tr>
                   <th>User Information</th>
                   <th>Order Information</th>
-                  <th>Rented Details</th>
                 </tr>
               </thead>
               <tbody>
