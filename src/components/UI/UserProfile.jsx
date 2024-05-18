@@ -45,9 +45,6 @@ const Profile = () => {
           <p className="card-text">
             <strong>Email:</strong> {user.email}
           </p>
-          <p>
-          <Link to={`/myrents`} className="btn btn-primary ">My Rents</Link>
-          </p>
 
         </div>
       </div>
